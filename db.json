@@ -1,0 +1,21 @@
+{
+  "name": "John",
+  "age": 25,
+  "city": "New York",
+  "gender": "male",
+  "occupation": "engineer",
+  "hobby": "fgame",
+  "language": "br",
+  "pet": "dog",
+  "salary": 50000,
+  "education": "Bachelor's degree",
+  "experience": 20,
+  "skill": "programming",
+  "height": 175,
+  "weight": 70,
+  "birthday": "1995-08-15",
+  "relationship": "single",
+  "nationality": "dxzgbs",
+  "favorite_color": "blue",
+  "food_preference": "vegetarian"
+}
